@@ -1,0 +1,4 @@
+# ViewPagerFragment
+简单的ViewPager+FragmentPagerAdapter 练习
+
+使用了ViewPager,Fragment,和FragmentPagerAdapter进行模仿微信的滑动和点击效果
